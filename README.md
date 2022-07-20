@@ -22,9 +22,9 @@ Predicting the demand of bike hire in the united states using linear regression
 
 ## Conclusions
 - Residuals are slightly deviating from normal distribution
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- R-square of 70.5% on the test data. On training data the R-square was 73%
+- Wind-Speed is having a huge affect on the usage of the bikes. May be bike design should be changed such that there would be accessories which would block the wind wind and customers will continue to have better drive experience in any windy conditions
+- Season is one of the biggest predictor of the bike demand
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
